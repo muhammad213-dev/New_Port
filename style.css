@@ -103,7 +103,6 @@ nav ul li a:hover{
 }
 .services-list, .work-list{
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
