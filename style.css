@@ -52,7 +52,7 @@ nav ul li a:hover{
 
 }
 .hero-section{
-    background-image: url("/resources/bg-img.jpg");
+    background-image: url("bg-img.jpg");
     width: 100%;
     height: 100vh;
     background-size: cover;
