@@ -103,13 +103,14 @@ nav ul li a:hover{
 }
 .services-list, .work-list{
     display: flex;
+    flex-direction: row;
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
     margin-top:10px;
 }
 .service, .work{
-    flex-basis: 600px;
+    flex-basis: 400px;
     border-radius: 8px;
     margin: 10px;
     position: relative;
