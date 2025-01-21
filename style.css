@@ -110,7 +110,7 @@ nav ul li a:hover{
     margin-top:10px;
 }
 .service, .work{
-    flex-basis: 400px;
+    flex-basis: 200px;
     border-radius: 8px;
     margin: 10px;
     position: relative;
